@@ -85,3 +85,5 @@ meken mama therum gatthu deyak thama java -jar kiyala gahala up karana app thama
 
 
 
+
+whitelabel issue eka enne index.html eka nathi nisa . index.html ekak dammahama eka hariyanwa 
